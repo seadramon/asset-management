@@ -1,0 +1,624 @@
+
+/* IMPORTANT! Epicaptcha Clear Fix */
+
+.epicaptcha-clearfix:before,
+.epicaptcha-clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    overflow: hidden;
+}
+
+.epicaptcha-clearfix:after {
+    clear: both;
+}
+
+.epicaptcha-clearfix{
+    zoom: 1; /* IE < 8 */
+}
+/*---------------------DEFAULT--------------------------*/
+.epicaptcha_captchaDefault
+{
+    background: url('../img/defaultBg.png') no-repeat;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    float:left;
+    width:179px;
+    height:32px;
+    color:teal;
+    overflow:hidden;
+}
+
+
+.epicaptcha_selectDefault
+{
+    background: url('../img/defaultBgHov.png') no-repeat;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    width:1px;
+    height:100%;
+    overflow:hidden;
+}
+
+.epicaptcha_messageDefault
+{
+    clear:both;
+    font: 12px 'Calibri', 'Tahoma', Arial, sans-serif;
+    color: #444;
+    width: 200px;
+    height: auto;
+    min-height: 54px;
+}
+
+#epicaptcha{
+    margin-bottom: 20px;
+}
+
+#epicaptcha_message{
+    line-height: 16px;
+    font: 15px 'Calibri', 'Tahoma', Arial, sans-serif;
+}
+
+.epicaptcha_lockDefault
+{
+    display: block;
+    background: url('../img/lockIcons2.png') no-repeat;
+    background-position: top;
+    float:right;
+    padding: 0;
+    width:32px;
+    height:32px;
+    margin: 0 20px 0 0;
+    margin-top: 0px;
+}
+
+.epicaptcha_lockUnlockDefault
+{
+    display: block;
+    background: url('../img/lockIcons2.png') no-repeat top;
+    background-position: bottom;
+    float:right;
+    padding: 0;
+    width:32px;
+    height:32px;
+    margin: 0 20px 0 0;
+    margin-top: 0px;
+}
+
+/*---------------------DEFAULT--------------------------*/
+
+/*---------------------fancy--------------------------*/
+
+.epicaptcha_captchaFancy
+{
+    background: url('../img/blk20.png') repeat;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    float:left;
+    width:179px;
+    height:32px;
+    color:teal;
+    overflow:hidden;
+}
+
+
+.epicaptcha_selectFancy
+{
+    background: url('../img/blk50.png') repeat;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    width:1px;
+    height:100%;
+    overflow:hidden;
+}
+
+.epicaptcha_messageFancy
+{
+    clear:both;
+    font: 12px 'Calibri', 'Tahoma', Arial, sans-serif;
+    color: #444;
+    width: 200px;
+    height: 32px;
+}
+
+.epicaptchaFancy{
+    background: url('../img/stripeTile.png') repeat;
+    /*position: relative;*/
+}
+
+.epicaptcha_lockFancy
+{
+    display: block;
+    background: url('../img/locks.png') no-repeat;
+    background-position: top;
+    float:right;
+    padding: 0;
+    width:36px;
+    height:42px;
+    margin: 0 20px 0 0;
+    /*position: absolute;
+    top: 12px;
+    right: 35px;*/
+}
+
+.epicaptcha_lockUnlockFancy
+{
+    display: block;
+    background: url('../img/locks.png') no-repeat;
+    background-position: bottom;
+    float:right;
+    padding: 0;
+    width:36px;
+    height:42px;
+    margin: 0 20px 0 0;
+    /*position: absolute;
+    top: 12px;
+    right: 35px;*/
+}
+
+/*---------------------fancy--------------------------*/
+
+/*---------------------grey scale--------------------------*/
+
+.epicaptcha_captchaGreyScale
+{
+    Background: #eee;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    float:left;
+    width:179px;
+    height:32px;
+    color:teal;
+    overflow:hidden;
+}
+
+
+.epicaptcha_selectGreyScale
+{
+    Background: #555;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    width:1px;
+    height:100%;
+    overflow:hidden;
+}
+
+.epicaptcha_messageGreyScale
+{
+    clear:both;
+    font: 12px 'Calibri', 'Tahoma', Arial, sans-serif;
+    color: #444;
+    width: 200px;
+    height: 32px;
+}
+
+.epicaptchaGreyScale{}
+
+.epicaptcha_lockGreyScale
+{
+    display: block;
+    background: url('../img/lockIconsgrey.png') no-repeat;
+    background-position: top;
+    float:right;
+    padding: 0;
+    width:24px;
+    height:24px;
+    margin: 0 20px 0 0;
+    margin-top: 4px;
+}
+
+.epicaptcha_lockUnlockGreyScale
+{
+    display: block;
+    background: url('../img/lockIconsgrey.png') no-repeat;
+    background-position: bottom;
+    float:right;
+    padding: 0;
+    width:24px;
+    height:24px;
+    margin: 0 20px 0 0;
+    margin-top: 4px;
+}
+/*---------------------grey scale--------------------------*/
+
+/*---------------------lightblue--------------------------*/
+
+.epicaptcha_captchalightblue
+{
+    Background: #dce5ea;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    float:left;
+    width:179px;
+    height:32px;
+    color:teal;
+    overflow:hidden;
+
+}
+
+
+.epicaptcha_selectlightblue
+{
+    Background: #005b9a;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    width:1px;
+    height:100%;
+    overflow:hidden;
+}
+
+.epicaptcha_messagelightblue
+{
+    clear:both;
+    font: 12px 'Calibri', 'Tahoma', Arial, sans-serif;
+    color: #444;
+    width: 200px;
+    height: auto;
+    min-height: 54px;
+}
+
+.epicaptchalightblue{}
+
+.epicaptcha_locklightblue
+{
+    display: block;
+    background: url('../img/lockIcons.png') no-repeat;
+    background-position: top;
+    float:right;
+    padding: 0;
+    width:24px;
+    height:24px;
+    margin: 0 20px 0 0;
+    margin-top: 4px;
+}
+
+.epicaptcha_lockUnlocklightblue
+{
+    display: block;
+    background: url('../img/lockIcons.png') no-repeat;
+    background-position: bottom;
+    float:right;
+    padding: 0;
+    width:24px;
+    height:24px;
+    margin: 0 20px 0 0;
+    margin-top: 4px;
+}
+
+#epicaptcha_containGlow{
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+/*---------------------lightblue--------------------------*/
+/*---------------------tribal--------------------------*/
+
+.epicaptcha_captchatribal
+{
+    background: url('../img/tribalBg.png') center bottom no-repeat;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    float:left;
+    width:179px;
+    height:32px;
+    color:teal;
+    overflow:hidden;
+}
+
+
+.epicaptcha_selecttribal
+{
+    background: url('../img/blk20.png') repeat;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    width:1px;
+    height:100%;
+    overflow:hidden;
+}
+
+.epicaptcha_messagetribal
+{
+    clear:both;
+    font: 12px 'Calibri', 'Tahoma', Arial, sans-serif;
+    color: #444;
+    width: 200px;
+    height: auto;
+    min-height: 54px;
+}
+
+.epicaptchatribal{}
+
+.epicaptcha_locktribal
+{
+    display: block;
+    background: url('../img/lockIcons2.png') no-repeat;
+    background-position: top;
+    float:right;
+    padding: 0;
+    width:32px;
+    height:32px;
+    margin: 0 20px 0 0;
+    margin-top: 0px;
+}
+
+.epicaptcha_lockUnlocktribal
+{
+    display: block;
+    background: url('../img/lockIcons2.png') no-repeat;
+    background-position: bottom;
+    float:right;
+    padding: 0;
+    width:32px;
+    height:32px;
+    margin: 0 20px 0 0;
+    margin-top: 0px;
+}
+/*---------------------tribal--------------------------*/
+
+
+.epicaptcha_captchatargetcom
+{
+    Background: url('../img/capchaF.png') no-repeat;
+    float:left;
+    width:179px;
+    height:32px;
+    color:teal;
+    overflow:hidden;
+
+}
+
+
+.epicaptcha_selecttargetcom
+{
+    Background: url('../img/capchaFm.png') no-repeat;
+    width:1px;
+    height:100%;
+    overflow:hidden;
+}
+
+.epicaptcha_captchaBasic
+{
+    /*Background: url('../img/capchaF.png') no-repeat;*/
+    background-color: white;
+    float:left;
+    width:179px;
+    height:32px;
+    color:teal;
+    overflow:hidden;
+
+}
+
+
+.epicaptcha_selectBasic
+{
+    /*Background: url('../img/capchaFm.png') no-repeat;*/
+    background-color:#3E89CD;
+    width:1px;
+    height:100%;
+    overflow:hidden;
+}
+
+.epicaptcha_lockBasic
+{
+    display: block;
+    background: url('../img/lock-icon.png') no-repeat;
+    background-position: top;
+    float:right;
+    width:32px;
+    height:32px;
+    margin-right:25px;
+}
+
+.epicaptcha_lockUnlockBasic
+{
+    display: block;
+    background: url('../img/GreenTick.png') no-repeat;
+    background-position: top;
+    float:right;
+    width:32px;
+    height:32px;
+    margin-right:25px;
+}
+
+.epicaptcha_messageBasic
+{
+    clear: both;
+    font-family: 'Agency FB',sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: teal;
+    width: 200px;
+    height: auto;
+    min-height: 54px;
+}
+
+.epicaptcha_messagetargetcom
+{
+    clear: both;
+    font-family: 'Agency FB',sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: teal;
+    width: 200px;
+    height: auto;
+    min-height: 54px;
+}
+
+/*#epicaptcha
+{
+    width:248px;
+    height:64px;
+}*/
+
+.epicaptcha_locktargetcom
+{
+    display: block;
+    background: url('../img/lock-icon.png') no-repeat;
+    background-position: top;
+    float:right;
+    width:32px;
+    height:32px;
+    margin-right:25px;
+}
+
+.epicaptcha_lockUnlocktargetcom
+{
+    display: block;
+    background: url('../img/GreenTick.png') no-repeat;
+    background-position: top;
+    float:right;
+    width:32px;
+    height:32px;
+    margin-right:25px;
+}
+
+.epicaptcha_circle
+{
+    width:33px;
+    height:33px;
+    Background: url('../img/mobliecap.png') no-repeat;
+    float:left;
+    cursor:pointer;
+}
+
+/*---------------------bluebar--------------------------*/
+
+.epicaptcha_captchabluebar
+{
+    background: url('../img/greybar.png') bottom center no-repeat;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    float:left;
+    width:179px;
+    height:32px;
+    position: relative;
+}
+
+
+.epicaptcha_selectbluebar
+{
+    background: url('../img/bluebarpt.png') top left repeat-x;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    width:1px;
+    height:100%;
+    position: relative;
+}
+
+.epicaptcha_selectbluebar span#epicaptcha_glow{
+    display: block;
+    background: url('../img/bbglow.png') top left no-repeat;
+    width: 100%;
+    height: 31px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.epicaptcha_selectbluebar span#epicaptcha_handle{
+    display: block;
+    background: url('../img/sliderHandle.png') top right no-repeat;
+    width: 36px;
+    height: 60px;
+    position: absolute;
+    top: -13px;
+    right: -10px;
+    z-index: 10;
+}
+
+#epicaptcha_stripTop{
+    display: block;
+    background: url('../img/stripTop.png') repeat-x;
+    width: 100%;
+    height: 23px;
+    position: absolute;
+    top: -19px;
+    left: 0px;
+}
+
+#epicaptcha_stripBtm{
+    display: block;
+    background: url('../img/stripBtm.png') repeat-x;
+    width: 100%;
+    height: 23px;
+    position: absolute;
+    bottom: -19px;
+    left: 0px;
+}
+
+#epicaptcha_capL{
+    display: block;
+    background: url('../img/endCapL.png') no-repeat;
+    width: 42px;
+    height: 80px;
+    position: absolute;
+    top: -24px;
+    left: -31px;
+}
+
+#epicaptcha_capR{
+    display: block;
+    background: url('../img/endCapR.png') no-repeat;
+    width: 42px;
+    height: 80px;
+    position: absolute;
+    top: -24px;
+    right: -31px;
+}
+
+.epicaptcha_messagebluebar
+{
+    clear:both;
+    font: 12px 'Calibri', 'Tahoma', Arial, sans-serif;
+    color: #444;
+    width: 200px;
+    height: auto;
+    min-height: 54px;
+    padding: 25px 0 0 0;
+}
+
+.epicaptchabluebar{}
+
+.epicaptcha_lockbluebar
+{
+    display: block;
+    background: url('../img/lockIcons2.png') no-repeat;
+    background-position: top;
+    float:right;
+    padding: 0;
+    width:32px;
+    height:32px;
+    margin: 0 20px 0 0;
+    margin-top: 0px;
+}
+
+.epicaptcha_lockUnlockbluebar
+{
+    display: block;
+    background: url('../img/lockIcons2.png') no-repeat;
+    background-position: bottom;
+    float:right;
+    padding: 0;
+    width:32px;
+    height:32px;
+    margin: 0 20px 0 0;
+    margin-top: 0px;
+}
+/*---------------------bluebar--------------------------*/

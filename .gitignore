@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/public/uploads
+Homestead.yaml
+Homestead.json
+.env
+*.yml
+*.Dockerfile
+oradiag_www-data/
+script/
+scripts/
+.gitlab-ci.yml
+docker-compose.yml
+php-fpm.Dockerfile
+phpspec.yml
+public/global_assets/plugins/fusioncharts/assets/scripts/fusiondesign.js

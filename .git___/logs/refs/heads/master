@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 6eb9d89d40f61a5eb57b7fa225443f68504ee761 damar.wiguno <percival5695@gmail.com> 1629792054 +0700	clone: from http://git.pdam-sby.go.id/zombieman/aset-manajemen.git
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 c68096a16c4a240e899368da80a7475c87791a79 hendy <astronema2077@gmail.com> 1649866559 +0700	commit (merge): Merge branch 'master' of https://git.pdam-sby.go.id/pdam/asset-new
+c68096a16c4a240e899368da80a7475c87791a79 03bf1c185e6228f2785c9bb38353f7d3b7aae687 hendy <astronema2077@gmail.com> 1649867597 +0700	commit: update role
+03bf1c185e6228f2785c9bb38353f7d3b7aae687 bac3c08ab1c36860ba3b920935d781a02d1caf38 hendy <astronema2077@gmail.com> 1649916247 +0700	commit: simpan/edit nilai perolehan
+bac3c08ab1c36860ba3b920935d781a02d1caf38 1a04a207fdcb73fecbf614a5d709dd1068ff4e26 hendy <astronema2077@gmail.com> 1651031535 +0700	commit: filter no spk and format nilai perolehan
+1a04a207fdcb73fecbf614a5d709dd1068ff4e26 5b8ea4fb199f62fb2e6be138d260f05d3853cd56 hendy <astronema2077@gmail.com> 1651031553 +0700	pull origin master: Merge made by the 'recursive' strategy.

@@ -1,0 +1,56 @@
+0000000000000000000000000000000000000000 6eb9d89d40f61a5eb57b7fa225443f68504ee761 damar.wiguno <percival5695@gmail.com> 1629792054 +0700	clone: from http://git.pdam-sby.go.id/zombieman/aset-manajemen.git
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 dea106f7915aae2ac357874303693e700de8b49c hendy <astronema2077@gmail.com> 1629792263 +0700	checkout: moving from master to semarsakti
+dea106f7915aae2ac357874303693e700de8b49c 190412fa729b356cbb0abedd2ee3197a1716d442 hendy <astronema2077@gmail.com> 1631584864 +0700	commit: SSA-18
+190412fa729b356cbb0abedd2ee3197a1716d442 d2ade2ad52fee56048534ed635218d0648c6e770 hendy <astronema2077@gmail.com> 1631788379 +0700	commit: no message
+d2ade2ad52fee56048534ed635218d0648c6e770 4d7affd8d4b49fded28a66dca8c1fb1cba6c9e29 hendy <astronema2077@gmail.com> 1631788390 +0700	pull origin semarsakti: Merge made by the 'recursive' strategy.
+4d7affd8d4b49fded28a66dca8c1fb1cba6c9e29 b4019362713e6bdde0ded80f87bbebba0cf3b964 hendy <astronema2077@gmail.com> 1633342453 +0700	commit: update depresiasi
+b4019362713e6bdde0ded80f87bbebba0cf3b964 6a84bd3faca1313a57741e1f3517fa8f2701da89 hendy <astronema2077@gmail.com> 1633426251 +0700	commit: delete depresiasi
+6a84bd3faca1313a57741e1f3517fa8f2701da89 367cdb1d8c583ab6c51f8c8d9990e415ea0393d5 hendy <astronema2077@gmail.com> 1633512191 +0700	commit: update
+367cdb1d8c583ab6c51f8c8d9990e415ea0393d5 44a7811a4756f594b16fa248cce2736aa6096a5d hendy <astronema2077@gmail.com> 1635075998 +0700	commit: verifikasi asset
+44a7811a4756f594b16fa248cce2736aa6096a5d 8fbd44522e03a2f22e3e36512c3a4e098a566201 hendy <astronema2077@gmail.com> 1636020287 +0700	commit: SSA-30 Pengesahan
+8fbd44522e03a2f22e3e36512c3a4e098a566201 28d25bdfad9e3f45cbb09d29d22d6acdd3c62316 hendy <astronema2077@gmail.com> 1636074369 +0700	commit: SSA-31 Upload aset
+28d25bdfad9e3f45cbb09d29d22d6acdd3c62316 61850649213465ceb372ae2712cb5d9b356f8b7e hendy <astronema2077@gmail.com> 1636938975 +0700	pull origin semarsakti: Fast-forward
+61850649213465ceb372ae2712cb5d9b356f8b7e 61850649213465ceb372ae2712cb5d9b356f8b7e hendy <astronema2077@gmail.com> 1636941335 +0700	reset: moving to HEAD
+61850649213465ceb372ae2712cb5d9b356f8b7e ce8335d47b810b91229b173da086520e3a392432 hendy <astronema2077@gmail.com> 1636941401 +0700	commit: update gitignore
+ce8335d47b810b91229b173da086520e3a392432 6eb9d89d40f61a5eb57b7fa225443f68504ee761 hendy <astronema2077@gmail.com> 1636941463 +0700	checkout: moving from semarsakti to master
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 6eb9d89d40f61a5eb57b7fa225443f68504ee761 hendy <astronema2077@gmail.com> 1636941502 +0700	checkout: moving from master to migrasi
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 ce8335d47b810b91229b173da086520e3a392432 hendy <astronema2077@gmail.com> 1636942501 +0700	checkout: moving from migrasi to semarsakti
+ce8335d47b810b91229b173da086520e3a392432 6eb9d89d40f61a5eb57b7fa225443f68504ee761 hendy <astronema2077@gmail.com> 1636942526 +0700	checkout: moving from semarsakti to migrasi
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 ce8335d47b810b91229b173da086520e3a392432 hendy <astronema2077@gmail.com> 1636942552 +0700	checkout: moving from migrasi to semarsakti
+ce8335d47b810b91229b173da086520e3a392432 6eb9d89d40f61a5eb57b7fa225443f68504ee761 hendy <astronema2077@gmail.com> 1636942776 +0700	checkout: moving from semarsakti to master
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 6eb9d89d40f61a5eb57b7fa225443f68504ee761 hendy <astronema2077@gmail.com> 1637419528 +0700	checkout: moving from master to migrasi
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 8bece676500e5ff61e456bd6820391ca470c4824 hendy <astronema2077@gmail.com> 1637744576 +0700	commit: no msg
+8bece676500e5ff61e456bd6820391ca470c4824 8bece676500e5ff61e456bd6820391ca470c4824 hendy <astronema2077@gmail.com> 1637744610 +0700	reset: moving to HEAD
+8bece676500e5ff61e456bd6820391ca470c4824 ce8335d47b810b91229b173da086520e3a392432 hendy <astronema2077@gmail.com> 1637744612 +0700	checkout: moving from migrasi to semarsakti
+ce8335d47b810b91229b173da086520e3a392432 8b40119dca92606040ba511d84437b076ca3ac2a hendy <astronema2077@gmail.com> 1637828352 +0700	commit: barcode
+8b40119dca92606040ba511d84437b076ca3ac2a 04d618f219737f98fc6ffeb289b27cd0d1a1a650 hendy <astronema2077@gmail.com> 1638269698 +0700	commit: upload asset
+04d618f219737f98fc6ffeb289b27cd0d1a1a650 5de1db570805f4b0b92e1ddf3e72a2b7b319cd59 hendy <astronema2077@gmail.com> 1638347549 +0700	commit: upload foto aset
+5de1db570805f4b0b92e1ddf3e72a2b7b319cd59 28553825a792364f810bb580acf2620b1695d74d hendy <astronema2077@gmail.com> 1638870627 +0700	checkout: moving from semarsakti to migrasidev
+28553825a792364f810bb580acf2620b1695d74d 1bc6f88be172bb74defbe3b52db1f0803b0fdfc0 hendy <astronema2077@gmail.com> 1638957614 +0700	commit: update upload and barcode
+1bc6f88be172bb74defbe3b52db1f0803b0fdfc0 729f6e0ee6ed896248916b51ae5419190a75bb63 hendy <astronema2077@gmail.com> 1638959075 +0700	commit: no msg
+729f6e0ee6ed896248916b51ae5419190a75bb63 9ec9d031b8a374abb45cdb5062c095b46799c04e hendy <astronema2077@gmail.com> 1639533681 +0700	pull origin migrasidev: Fast-forward
+9ec9d031b8a374abb45cdb5062c095b46799c04e a1767ef181075b92d62a28d8f8a5c1c1faa701ea hendy <astronema2077@gmail.com> 1639735389 +0700	commit: solve error edit aset
+a1767ef181075b92d62a28d8f8a5c1c1faa701ea 5de1db570805f4b0b92e1ddf3e72a2b7b319cd59 hendy <astronema2077@gmail.com> 1641124827 +0700	checkout: moving from migrasidev to semarsakti
+5de1db570805f4b0b92e1ddf3e72a2b7b319cd59 6eb9d89d40f61a5eb57b7fa225443f68504ee761 hendy <astronema2077@gmail.com> 1641124985 +0700	checkout: moving from semarsakti to master
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 5de1db570805f4b0b92e1ddf3e72a2b7b319cd59 hendy <astronema2077@gmail.com> 1641125007 +0700	checkout: moving from master to semarsakti
+5de1db570805f4b0b92e1ddf3e72a2b7b319cd59 a1767ef181075b92d62a28d8f8a5c1c1faa701ea hendy <astronema2077@gmail.com> 1641125979 +0700	checkout: moving from semarsakti to migrasidev
+a1767ef181075b92d62a28d8f8a5c1c1faa701ea c23f75ec672e6983cd1ccf5dc2e873aef473168e hendy <astronema2077@gmail.com> 1641129120 +0700	commit: kode aset
+c23f75ec672e6983cd1ccf5dc2e873aef473168e a9b93a909cc0c073776228b2c64c2dcea57a3400 hendy <astronema2077@gmail.com> 1641547557 +0700	pull origin migrasidev: Fast-forward
+a9b93a909cc0c073776228b2c64c2dcea57a3400 608423049d29980dc9c5bfd195532b6ec292a892 hendy <astronema2077@gmail.com> 1641551060 +0700	commit: nomor urut n aset. in upload and update aset
+608423049d29980dc9c5bfd195532b6ec292a892 de2ff4f2d4988335ea9edbf15dfb4f8caf2bde6c hendy <astronema2077@gmail.com> 1646135783 +0700	pull origin migrasidev: Fast-forward
+de2ff4f2d4988335ea9edbf15dfb4f8caf2bde6c 1dae6e51eccd406a9c1b82cacb53df7fb6d24194 hendy <astronema2077@gmail.com> 1646391222 +0700	commit: ruangan combo
+1dae6e51eccd406a9c1b82cacb53df7fb6d24194 a56bf668763a09ca1f72996715759390f70ef16f hendy <astronema2077@gmail.com> 1646409889 +0700	commit: foto aset
+a56bf668763a09ca1f72996715759390f70ef16f 7df6dbb34d84a8b628c7d73d0cb83dc15ffe62d7 hendy <astronema2077@gmail.com> 1646412673 +0700	commit: ts upload, ts update, ts pemindahan
+7df6dbb34d84a8b628c7d73d0cb83dc15ffe62d7 6eb9d89d40f61a5eb57b7fa225443f68504ee761 hendy <astronema2077@gmail.com> 1648286710 +0700	checkout: moving from migrasidev to master
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 7df6dbb34d84a8b628c7d73d0cb83dc15ffe62d7 hendy <astronema2077@gmail.com> 1648286716 +0700	checkout: moving from master to migrasidev
+7df6dbb34d84a8b628c7d73d0cb83dc15ffe62d7 fb6721594762d4ef756f58fd8e74f5a25ee275cd hendy <astronema2077@gmail.com> 1648289646 +0700	commit: No 1 - Poin 11
+fb6721594762d4ef756f58fd8e74f5a25ee275cd bcda6e5bb38d0c9d13fc22909af33c5ac3edd739 hendy <astronema2077@gmail.com> 1648376833 +0700	commit: No. 2
+bcda6e5bb38d0c9d13fc22909af33c5ac3edd739 1105cacb40fcd7c628c58efb9207a298054db598 hendy <astronema2077@gmail.com> 1648377290 +0700	commit: No.1 poin 2 - nilai perolehan
+1105cacb40fcd7c628c58efb9207a298054db598 1e5d13be74160d3863e8159785fb201dfddd9503 hendy <astronema2077@gmail.com> 1648549468 +0700	commit: No.3 master
+1e5d13be74160d3863e8159785fb201dfddd9503 d4fb1c90cf64afd3a035597766f57f5454fa9027 hendy <astronema2077@gmail.com> 1649864716 +0700	commit: nomor 1
+d4fb1c90cf64afd3a035597766f57f5454fa9027 6eb9d89d40f61a5eb57b7fa225443f68504ee761 hendy <astronema2077@gmail.com> 1649864719 +0700	checkout: moving from migrasidev to master
+6eb9d89d40f61a5eb57b7fa225443f68504ee761 c68096a16c4a240e899368da80a7475c87791a79 hendy <astronema2077@gmail.com> 1649866559 +0700	commit (merge): Merge branch 'master' of https://git.pdam-sby.go.id/pdam/asset-new
+c68096a16c4a240e899368da80a7475c87791a79 03bf1c185e6228f2785c9bb38353f7d3b7aae687 hendy <astronema2077@gmail.com> 1649867597 +0700	commit: update role
+03bf1c185e6228f2785c9bb38353f7d3b7aae687 bac3c08ab1c36860ba3b920935d781a02d1caf38 hendy <astronema2077@gmail.com> 1649916247 +0700	commit: simpan/edit nilai perolehan
+bac3c08ab1c36860ba3b920935d781a02d1caf38 1a04a207fdcb73fecbf614a5d709dd1068ff4e26 hendy <astronema2077@gmail.com> 1651031535 +0700	commit: filter no spk and format nilai perolehan
+1a04a207fdcb73fecbf614a5d709dd1068ff4e26 5b8ea4fb199f62fb2e6be138d260f05d3853cd56 hendy <astronema2077@gmail.com> 1651031553 +0700	pull origin master: Merge made by the 'recursive' strategy.
